@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <samp>
 
-# <p align="center"><samp> 🤖 Hello there! I'm Suzie Dong. </samp></p>
+# <p align="center"><samp>  🌱 Hello there! I'm Suzie Dong. </samp></p>
 
 <p align="center"><img width=400 height=300 src="assets/zdf.gif" /></p>
 
